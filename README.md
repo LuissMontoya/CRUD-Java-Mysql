@@ -22,7 +22,7 @@ driver: MySQL (com.mysql.jdbc.Driver)
 JDBC URL: jdbc:mysql://localhost/work
 
 
-para acceso a la bd: alter user 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '55555';
+para acceso a la bd: alter user 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password';
 
 
 C:\> set CLASSPATH=C:\Program Files\Java\jdk1.8.0_271\jre\lib\ext\mysql-connector-java-8.0.23
